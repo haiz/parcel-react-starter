@@ -9,3 +9,12 @@ h1 {
 .m-t-30 {
   margin-top: 30px;
 }
+
+.header {
+  height: 50px;
+  background-color: green;
+}
+
+.menu-item {
+  margin: 5px;
+}
